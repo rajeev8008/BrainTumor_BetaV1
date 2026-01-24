@@ -10,7 +10,9 @@ Further improvements are underway. Feel free to contribute and collaborate <br>
 
 Segmentation environment
 ![ui1](https://github.com/user-attachments/assets/d4cbd293-897e-4962-adbf-6bc102f6dba6)
+The interface allows for precise slice-by-slice analysis of the MRI data with real-time model predictions overlaid on the original scan.
 
 
 3-D viewport
 ![3dviewport](https://github.com/user-attachments/assets/fde825c9-26aa-4b2e-8be1-4b1b05a90380)
+Utilizing the XTK framework, the system generates an interactive 3D reconstruction of the
